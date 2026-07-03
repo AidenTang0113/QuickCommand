@@ -1,0 +1,4 @@
+com.quickcommand.test.app-androidTest-0 C:\Users\Aiden\.qclaw\workspace\QuickCommand\app\build\generated\res\resValues\androidTest\debug
+com.quickcommand.test.app-mergeDebugAndroidTestResources-1 C:\Users\Aiden\.qclaw\workspace\QuickCommand\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.quickcommand.test.app-mergeDebugAndroidTestResources-2 C:\Users\Aiden\.qclaw\workspace\QuickCommand\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.quickcommand.test.app-merged_res-3 C:\Users\Aiden\.qclaw\workspace\QuickCommand\app\build\intermediates\merged_res\debugAndroidTest

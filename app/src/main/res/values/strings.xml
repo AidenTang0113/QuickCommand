@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">快捷命令</string>
+    <string name="overlay_channel_name">手势检测服务</string>
+    <string name="reminder_channel_name">提醒通知</string>
+</resources>

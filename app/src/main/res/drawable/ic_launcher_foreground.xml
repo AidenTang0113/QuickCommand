@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 闪电图标 — 快捷命令 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,20 L38,56 L52,56 L46,88 L72,48 L56,48 L64,20 Z" />
+</vector>

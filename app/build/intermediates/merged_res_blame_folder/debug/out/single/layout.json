@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-mergeDebugResources-41:\\layout\\activity_add_edit_command.xml",
+        "source": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-main-44:\\layout\\activity_add_edit_command.xml"
+    },
+    {
+        "merged": "com.quickcommand.app-mergeDebugResources-41:/layout/activity_settings.xml",
+        "source": "com.quickcommand.app-main-44:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-mergeDebugResources-41:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-main-44:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-mergeDebugResources-41:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-mergeDebugResources-41:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-main-44:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-mergeDebugResources-41:\\layout\\activity_gesture_capture.xml",
+        "source": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-main-44:\\layout\\activity_gesture_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-mergeDebugResources-41:\\layout\\item_command.xml",
+        "source": "C:\\Users\\Aiden\\.gradle\\daemon\\8.5\\com.quickcommand.app-main-44:\\layout\\item_command.xml"
+    }
+]
