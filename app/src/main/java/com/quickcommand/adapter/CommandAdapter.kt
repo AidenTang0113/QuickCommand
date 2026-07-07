@@ -13,8 +13,7 @@ import com.quickcommand.model.GestureType
 class CommandAdapter(
     private val onToggle: (Command, Boolean) -> Unit,
     private val onEdit: (Command) -> Unit,
-    private val onDelete: (Command) -> Unit,
-    private val onExecute: (Command) -> Unit
+    private val onDelete: (Command) -> Unit
 ) : ListAdapter<Command, CommandAdapter.ViewHolder>(DiffCallback) {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -40,11 +39,7 @@ class CommandAdapter(
             binding.swEnabled.setOnCheckedChangeListener { _, isChecked ->
                 onToggle(command, isChecked)
             }
-            binding.root.setOnClickListener { onExecute(command) }
-            binding.root.setOnLongClickListener {
-                onEdit(command)
-                true
-            }
+            binding.root.setOnClickListener { onEdit(command) }
             binding.btnDelete.setOnClickListener { onDelete(command) }
         }
     }

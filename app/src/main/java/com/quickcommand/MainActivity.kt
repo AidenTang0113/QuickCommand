@@ -17,7 +17,6 @@ import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.quickcommand.adapter.CommandAdapter
 import com.quickcommand.databinding.ActivityMainBinding
-import com.quickcommand.service.CommandExecutor
 import com.quickcommand.service.GestureOverlayService
 import com.quickcommand.viewmodel.CommandViewModel
 import kotlinx.coroutines.launch
@@ -78,9 +77,6 @@ class MainActivity : AppCompatActivity() {
                     .setPositiveButton("删除") { _, _ -> viewModel.delete(cmd) }
                     .setNegativeButton("取消", null)
                     .show()
-            },
-            onExecute = { cmd ->
-                CommandExecutor.execute(this, cmd)
             }
         )
 
